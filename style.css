@@ -132,6 +132,6 @@ h1:hover{
     opacity: 0;
     margin-left: 10px;
 }
-.box:hover .overlay{
+.container:hover .overlay{
     opacity: .6;
 }
